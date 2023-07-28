@@ -1,0 +1,20 @@
+authors:
+- family-names: Borza
+  given-names: Endre Márk
+  orcid: 0000-0002-8804-4520
+cff-version: 1.2.0
+date-released: '2023-07-28'
+doi: 10.5281/zenodo.8194027
+keywords: []
+license: MIT
+message: If you use this software, please cite it as below.
+references:
+- date-released: '2023-06-22'
+  doi: 10.5281/zenodo.8070164
+  title: sscu-budapest/datazimmer
+  type: software
+  version: v0.5.3
+title: weather-data
+type: dataset
+url: https://doi.org/10.5281/zenodo.8194027
+version: zimmer-v0/0.0/2023.7.28.1/#raw
